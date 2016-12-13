@@ -1,0 +1,8 @@
+QXmpp (Cross-platform C++ XMPP client and server library)
+
+QXmpp strives to be as easy to use as possible, the underlying TCP
+socket, the core XMPP RFCs (RFC3920 and RFC3921) and XMPP extensions
+have been nicely encapsulated into classes. It is written in C++ and
+uses Qt framework.
+
+Uses opus, speex, theora and vpx codecs.
