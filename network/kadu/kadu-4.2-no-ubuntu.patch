@@ -1,0 +1,17 @@
+--- Plugins.cmake.org	2016-12-02 00:23:36.000000000 +0100
++++ Plugins.cmake	2016-12-12 08:52:03.057934401 +0100
+@@ -106,12 +106,12 @@
+ 	# docking
+ 		# Indicator docking support
+ 		# Comment if you are not compilign under Ubuntu flavor
+-		indicator_docking
++#		indicator_docking
+ 
+ 	# integration
+ 		# integration with Unity
+ 		# Comment if you are not compilign under Ubuntu flavor
+-		unity_integration
++#		unity_integration
+ 
+ 	# notifiers
+ 		# Freedesktop notification support
